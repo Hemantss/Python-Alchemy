@@ -1,0 +1,6 @@
+2025-10-12 10:23:16,862 - ERROR - Error saving record: Expecting value: line 1 column 1 (char 0)
+2025-10-12 10:23:16,862 - INFO - Added new record: {'user': 'Alice', 'activity': 'Upload', 'status': 'Success'}
+2025-10-12 10:28:07,677 - ERROR - Error saving record: Expecting value: line 1 column 1 (char 0)
+2025-10-12 10:28:07,678 - INFO - Added new record: {'user': 'Alice', 'activity': 'Upload', 'status': 'Success'}
+2025-10-12 10:29:59,516 - ERROR - Error saving record: Expecting value: line 1 column 1 (char 0)
+2025-10-12 10:29:59,516 - INFO - Added new record: {'user': 'Alice', 'activity': 'Upload', 'status': 'Success'}
