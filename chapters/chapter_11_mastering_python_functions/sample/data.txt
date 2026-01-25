@@ -1,0 +1,51 @@
+# Sample data file for generator pipeline testing
+apple
+banana
+# this is a comment line
+cherry
+date
+elderberry
+fig
+# another comment that should be skipped
+grape
+honeydew
+indian fig
+jackfruit
+kiwi
+lemon
+mango
+nectarine
+# comments can appear anywhere
+orange
+papaya
+quince
+raspberry
+strawberry
+tangerine
+ugli fruit
+vanilla
+watermelon
+xigua
+yam
+zucchini
+# blank-like content below is intentional
+alpha
+beta
+gamma
+delta
+epsilon
+# Greek letters above
+theta
+lambda
+omega
+# End of meaningful data
+line forty one
+line forty two
+line forty three
+line forty four
+line forty five
+line forty six
+line forty seven
+line forty eight
+line forty nine
+line fifty
