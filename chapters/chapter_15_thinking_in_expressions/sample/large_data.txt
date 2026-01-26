@@ -1,0 +1,45 @@
+2025-08-01 09:00:01 INFO  Server started on port 8080
+2025-08-01 09:00:05 INFO  User login successful user_id=1023
+2025-08-01 09:00:09 WARN  High memory usage detected (78%)
+2025-08-01 09:00:12 INFO  GET /api/status 200
+2025-08-01 09:00:15 INFO  POST /api/login 201
+2025-08-01 09:00:18 ERROR Database connection timeout
+2025-08-01 09:00:22 INFO  Retrying database connection
+2025-08-01 09:00:25 INFO  Database connection restored
+2025-08-01 09:00:28 INFO  GET /api/users 200
+2025-08-01 09:00:31 INFO  User logout user_id=1023
+2025-08-01 09:00:35 INFO  GET /healthcheck 200
+2025-08-01 09:00:38 WARN  Disk usage exceeded 70%
+2025-08-01 09:00:42 INFO  GET /api/products 200
+2025-08-01 09:00:45 INFO  POST /api/order 201
+2025-08-01 09:00:49 ERROR Payment service unavailable
+2025-08-01 09:00:52 INFO  Retrying payment request
+2025-08-01 09:00:56 INFO  Payment processed successfully
+2025-08-01 09:01:00 INFO  GET /api/orders 200
+2025-08-01 09:01:04 INFO  Background job started job_id=778
+2025-08-01 09:01:08 INFO  Background job completed job_id=778
+2025-08-01 09:01:12 INFO  GET /api/customers 200
+2025-08-01 09:01:16 WARN  Response time exceeded threshold
+2025-08-01 09:01:20 INFO  GET /api/metrics 200
+2025-08-01 09:01:24 INFO  POST /api/logout 200
+2025-08-01 09:01:28 ERROR Cache server not responding
+2025-08-01 09:01:32 INFO  Cache server reconnected
+2025-08-01 09:01:36 INFO  GET /api/search?q=python 200
+2025-08-01 09:01:40 INFO  GET /api/search?q=itertools 200
+2025-08-01 09:01:44 INFO  User login successful user_id=2045
+2025-08-01 09:01:48 INFO  GET /api/profile 200
+2025-08-01 09:01:52 WARN  CPU usage high (85%)
+2025-08-01 09:01:56 INFO  CPU usage normalized
+2025-08-01 09:02:00 INFO  GET /api/notifications 200
+2025-08-01 09:02:04 INFO  POST /api/message 201
+2025-08-01 09:02:08 ERROR Failed to send email notification
+2025-08-01 09:02:12 INFO  Email retry scheduled
+2025-08-01 09:02:16 INFO  Email sent successfully
+2025-08-01 09:02:20 INFO  GET /api/dashboard 200
+2025-08-01 09:02:24 INFO  GET /api/settings 200
+2025-08-01 09:02:28 WARN  Deprecated API endpoint accessed
+2025-08-01 09:02:32 INFO  GET /api/v2/status 200
+2025-08-01 09:02:36 INFO  User logout user_id=2045
+2025-08-01 09:02:40 INFO  Scheduled cleanup task started
+2025-08-01 09:02:44 INFO  Scheduled cleanup task completed
+2025-08-01 09:02:48 INFO  Server running normally
